@@ -37,4 +37,4 @@ class DNSHandler(BaseRequestHandler):
 
 
 if __name__ == "__main__":
-    UDPServer(("127.0.0.1", 5353), DNSHandler).serve_forever()
+    UDPServer(("127.0.0.1", 5354), DNSHandler).serve_forever()

@@ -7,7 +7,7 @@ import time
 import random
 import os
 
-DNS = ("127.0.0.1", 5353)
+DNS = ("127.0.0.1", 5354)
 CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))
 
 

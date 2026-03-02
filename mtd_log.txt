@@ -1,0 +1,7 @@
+Switching C2 → 127.0.0.1 port 9000 domain botc2.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2-alt.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2-alt.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2-alt.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2.example

@@ -15,9 +15,12 @@ Simulated IoT network in user space: devices use DNS to find C2, bots beacon per
 
 ## Setup
 
+DNS server uses **port 5354** (5353 is often used by system mDNS).
+
 ```bash
-cd MTP/mtd_iot
-pip3 install -r requirements.txt
+cd mtd_iot
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# or: pip3 install -r requirements.txt
 ```
 
 Config files (already present): `c2_ip.txt`, `c2_port.txt`, `domain.txt`.
