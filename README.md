@@ -91,3 +91,13 @@ for i in {1..10}; do python3 bot_client.py & done
 - Inter-arrival variance increases  
 - C2 success rate decreases  
 - Normal traffic (google.com) unchanged  
+
+## Push to GitHub
+
+Remote is set to `https://github.com/saumyaseetha1006/SamMTP`. From project root:
+
+```bash
+git push -u origin main
+```
+
+If you use SSH: `git remote set-url origin git@github.com:saumyaseetha1006/SamMTP.git` then push.
