@@ -1,24 +1,4179 @@
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0020s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0006s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
-C2 FAIL
-C2 FAIL
-C2 FAIL
-C2 FAIL
-C2 FAIL
-C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0004s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0003s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0003s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0003s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
 C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0003s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
 C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0023s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0006s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0022s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0008s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0019s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0008s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0020s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0021s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0020s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0006s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0022s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0008s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0022s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0021s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0007s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0007s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0019s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0006s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0020s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0008s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0020s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0004s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0020s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0104s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0006s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0008s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0008s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0006s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0007s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0008s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0020s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0020s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0027s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0023s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0021s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0009s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0020s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0019s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9001 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.1 port=9002 error=ConnectionRefusedError
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0015s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0020s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0020s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0013s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0018s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.2 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.2 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.2 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0020s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0014s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9000 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0008s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0013s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0016s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0008s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0017s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0019s
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0016s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9001 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0011s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.3 time=0.0010s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0009s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0020s
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0015s
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2-alt.example ip=127.0.0.3 time=0.0012s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[TCP] CONNECT FAIL ip=127.0.0.3 port=9002 error=timeout
+C2 FAIL
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0010s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0015s
+[TCP] CONNECT SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
 C2 SUCCESS

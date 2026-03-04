@@ -27,7 +27,16 @@ class DNSHandler(BaseRequestHandler):
     def handle(self):
         data, sock = self.request
         query = data.decode().strip()
-        print(f"{time.time()} QUERY {query}")
+        # print(f"{time.time()} QUERY {query}")
+        now = time.time()
+        active_domain = get_domain()
+
+        if query == active_domain:
+            response = get_c2_ip()
+            print(f"{now} QUERY {query} -> C2_IP {response}")
+        else:
+            response = "8.8.8.8"
+            print(f"{now} QUERY {query} -> DEFAULT {response}")
         active_domain = get_domain()
         if query == active_domain:
             response = get_c2_ip()

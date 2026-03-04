@@ -32,20 +32,49 @@ def resolve():
     return s.recv(1024).decode()
 
 
+# def main():
+#     while True:
+#         try:
+#             ip = resolve()
+#             port = get_port()
+#             s = socket.socket()
+#             s.settimeout(2)
+#             s.connect((ip, port))
+#             s.send(b"beacon")
+#             print("C2 SUCCESS")
+#         except Exception:
+#             print("C2 FAIL")
+#         time.sleep(random.uniform(2, 6))
 def main():
     while True:
+        domain = get_domain()
+        port = None
+        ip = None
+
         try:
+            t_dns_start = time.time()
             ip = resolve()
+            t_dns_end = time.time()
+
             port = get_port()
+
+            print(f"[DNS] domain={domain} ip={ip} time={(t_dns_end - t_dns_start):.4f}s")
+
+            t_tcp_start = time.time()
             s = socket.socket()
             s.settimeout(2)
             s.connect((ip, port))
-            s.send(b"beacon")
-            print("C2 SUCCESS")
-        except Exception:
-            print("C2 FAIL")
-        time.sleep(random.uniform(2, 6))
+            t_tcp_end = time.time()
 
+            s.send(b"beacon")
+            print(f"[TCP] CONNECT SUCCESS ip={ip} port={port} connect_time={(t_tcp_end - t_tcp_start):.4f}s")
+            print("C2 SUCCESS")
+
+        except Exception as e:
+            print(f"[TCP] CONNECT FAIL ip={ip} port={port} error={type(e).__name__}")
+            print("C2 FAIL")
+
+        time.sleep(random.uniform(2, 6))
 
 if __name__ == "__main__":
     main()

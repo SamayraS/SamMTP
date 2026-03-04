@@ -5,3 +5,227 @@ Switching C2 → 127.0.0.1 port 9000 domain botc2-alt.example
 Switching C2 → 127.0.0.2 port 9001 domain botc2.example
 Switching C2 → 127.0.0.3 port 9002 domain botc2-alt.example
 Switching C2 → 127.0.0.1 port 9000 domain botc2.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2-alt.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2-alt.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2-alt.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2-alt.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2-alt.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2-alt.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2-alt.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2-alt.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2-alt.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2-alt.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2-alt.example
+Switching C2 → 127.0.0.2 port 9001 domain botc2.example
+Switching C2 → 127.0.0.3 port 9002 domain botc2-alt.example
+Switching C2 → 127.0.0.1 port 9000 domain botc2.example
+1772608058 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608061 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608064 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608067 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608070 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608073 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608076 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608079 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608082 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608085 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608088 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608091 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608094 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608097 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608100 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608103 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608106 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608109 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608112 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608115 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608118 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608121 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608124 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608127 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608130 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608133 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608136 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608139 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608142 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608145 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608148 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608151 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608154 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608157 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608160 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608163 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608166 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608169 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608172 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608175 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608179 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608182 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608185 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608188 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608191 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608194 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608197 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608200 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608203 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608206 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608209 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608212 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608215 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608218 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608221 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608224 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608227 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608230 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608233 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608236 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608239 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608242 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608245 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608248 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608251 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608254 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608257 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608260 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608263 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608266 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608269 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608272 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608275 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608278 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608281 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608284 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608287 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608290 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608293 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608296 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608299 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608303 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608306 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608309 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608312 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608315 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608318 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608321 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608324 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608327 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608330 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608333 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608336 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608339 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608342 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608345 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608348 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608351 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608354 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608357 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608360 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608363 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608366 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608369 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608372 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608375 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608378 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608381 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608384 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608387 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608390 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608393 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608396 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608399 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608402 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608405 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608408 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608411 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608414 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608417 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608420 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608423 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608426 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608429 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608432 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608435 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608438 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608441 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608444 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608447 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608451 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608454 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608457 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608460 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608463 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608466 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608469 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608472 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608475 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608478 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608481 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608484 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608487 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608490 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608493 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608496 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608499 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608502 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608505 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608508 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608511 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608514 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608517 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608520 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608523 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608526 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608529 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608532 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608535 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608538 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608541 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608544 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608547 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608550 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608553 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608556 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608559 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608562 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608565 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608568 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608571 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608574 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608577 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608581 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608584 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608587 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608590 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608593 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608596 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608599 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608602 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608605 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1772608608 SWITCH ip=127.0.0.1 port=9001 domain=botc2.example
+1772608611 SWITCH ip=127.0.0.1 port=9001 domain=botc2-alt.example
+1772608614 SWITCH ip=127.0.0.1 port=9002 domain=botc2.example
+1772608617 SWITCH ip=127.0.0.1 port=9002 domain=botc2-alt.example
+1772608620 SWITCH ip=127.0.0.2 port=9000 domain=botc2.example
+1772608623 SWITCH ip=127.0.0.2 port=9000 domain=botc2-alt.example
+1772608626 SWITCH ip=127.0.0.2 port=9001 domain=botc2.example
+1772608629 SWITCH ip=127.0.0.2 port=9001 domain=botc2-alt.example
+1772608632 SWITCH ip=127.0.0.2 port=9002 domain=botc2.example
+1772608635 SWITCH ip=127.0.0.2 port=9002 domain=botc2-alt.example
+1772608638 SWITCH ip=127.0.0.3 port=9000 domain=botc2.example
+1772608641 SWITCH ip=127.0.0.3 port=9000 domain=botc2-alt.example
+1772608644 SWITCH ip=127.0.0.3 port=9001 domain=botc2.example
+1772608647 SWITCH ip=127.0.0.3 port=9001 domain=botc2-alt.example
+1772608650 SWITCH ip=127.0.0.3 port=9002 domain=botc2.example
+1772608653 SWITCH ip=127.0.0.3 port=9002 domain=botc2-alt.example
+1772608656 SWITCH ip=127.0.0.1 port=9000 domain=botc2.example
+1772608659 SWITCH ip=127.0.0.1 port=9000 domain=botc2-alt.example

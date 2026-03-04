@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 infected.flag
 .DS_Store
+_old_logs_*/
+run_batch_exp.sh
+aggregate_metrics.py
+venv/
+# _old_logs_*/
+*.png
