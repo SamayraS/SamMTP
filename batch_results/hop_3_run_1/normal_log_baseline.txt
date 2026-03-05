@@ -1,0 +1,2268 @@
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0047s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0067s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0033s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionResetError
+C2 FAIL
+[BACKOFF] sleeping=1.84s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionResetError
+C2 FAIL
+[BACKOFF] sleeping=3.12s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0042s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0011s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0037s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.81s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.45s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0021s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.61s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0022s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.29s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0005s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.92s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0022s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.93s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0022s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.10s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=2.00s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0021s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.20s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0021s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=2.87s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.76s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0023s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=2.85s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.92s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.21s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.85s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.37s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0049s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0020s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.23s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.94s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0009s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0020s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.55s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0021s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.00s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.39s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0008s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.82s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0029s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.11s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.72s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0021s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.53s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=4.12s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.95s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0006s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0014s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=2.87s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0018s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=2.47s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0007s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0023s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=3.13s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0010s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0013s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0012s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0019s
+[TCP] FAIL ip=127.0.0.1 port=9000 error=ConnectionRefusedError
+C2 FAIL
+[BACKOFF] sleeping=1.90s
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0016s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0011s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0017s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0003s
+C2 SUCCESS
+[DNS] domain=botc2.example ip=127.0.0.1 time=0.0015s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS

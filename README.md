@@ -92,6 +92,38 @@ for i in {1..10}; do python3 bot_client.py & done
 - C2 success rate decreases  
 - Normal traffic (google.com) unchanged  
 
+## Batch results → Excel (one sheet per full batch)
+
+From `batch_results/` (e.g. after `run_batch_exp.sh`), generate one workbook with **one sheet for the full batch** — all runs (hop/run folders) in a single sheet, one row per run:
+
+```bash
+.venv/bin/python3 populate_batch_excel.py
+```
+
+Output: `batch_results.xlsx`. Each sheet has the same columns (Hop_Interval, Run, Baseline/MTD success rates, beacons, DNS counts) for that run.
+
+### Opening with Grist Desktop
+
+[Grist Desktop](https://github.com/gristlabs/grist-desktop) opens spreadsheets offline.
+
+**One-step download and run (recommended):**
+
+```bash
+./download_and_run_grist.sh
+```
+
+- Downloads the Mac app (arm64 or x64) into **`mtd_iot/grist-desktop-app/`**.
+- Opens the installer: drag **Grist** to **Applications**.
+- If Grist is already installed, opens `batch_results.xlsx` in Grist.
+
+After installing, open your sheet anytime with:
+
+```bash
+open -a Grist batch_results.xlsx
+```
+
+Or in Grist: **File → Open** and choose `batch_results.xlsx`.
+
 ## Push to GitHub
 
 Remote is set to `https://github.com/saumyaseetha1006/SamMTP`. From project root:

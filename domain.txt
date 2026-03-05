@@ -1,1 +1,1 @@
-botc2-alt.example
+botc2.example

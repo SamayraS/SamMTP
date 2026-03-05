@@ -4,8 +4,7 @@ __pycache__/
 infected.flag
 .DS_Store
 _old_logs_*/
-run_batch_exp.sh
-aggregate_metrics.py
 venv/
 # _old_logs_*/
 *.png
+grist-desktop-app/
