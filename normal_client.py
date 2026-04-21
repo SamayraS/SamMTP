@@ -13,8 +13,14 @@ CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))
 def main_normal():
     while True:
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        s.sendto(b"google.com", DNS)
-        s.recv(1024)
+        try:
+            s.sendto(b"google.com", DNS)
+            response = s.recv(1024).decode()
+            print(f"[NORMAL_DNS] query=google.com ip={response}")
+        except Exception as exc:
+            print(f"[NORMAL_DNS] FAIL error={type(exc).__name__}")
+        finally:
+            s.close()
         time.sleep(5)
 
 

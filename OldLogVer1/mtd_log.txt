@@ -1,0 +1,6 @@
+1776632595 SWITCH mode=ip_dns ip=127.0.0.1 port=9000 domain=botc2.example
+1776632596 SWITCH mode=ip_dns ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1776632597 SWITCH mode=ip_dns ip=127.0.0.1 port=9000 domain=botc2-mutate.example
+1776632598 SWITCH mode=ip_dns ip=127.0.0.1 port=9000 domain=botc2.example
+1776632599 SWITCH mode=ip_dns ip=127.0.0.1 port=9000 domain=botc2-alt.example
+1776632600 SWITCH mode=ip_dns ip=127.0.0.1 port=9000 domain=botc2-mutate.example

@@ -1,0 +1,7 @@
+mode=ip
+bots=50
+clients=50
+ratio=50:50
+run_id=1
+mutation_interval_seconds=1
+runtime_seconds=480

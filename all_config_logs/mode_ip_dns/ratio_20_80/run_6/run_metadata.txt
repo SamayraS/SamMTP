@@ -1,0 +1,7 @@
+mode=ip_dns
+bots=20
+clients=80
+ratio=20:80
+run_id=6
+mutation_interval_seconds=10
+runtime_seconds=480

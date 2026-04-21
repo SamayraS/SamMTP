@@ -1,0 +1,5 @@
+C2 on port 9000
+1776632169.363265 BEACON from ('127.0.0.1', 63341) on port 9000
+C2 on port 9000
+1776632169.366802 BEACON from ('127.0.0.1', 63342) on port 9000
+C2 on port 9000

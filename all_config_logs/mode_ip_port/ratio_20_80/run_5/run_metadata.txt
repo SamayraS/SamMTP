@@ -1,0 +1,7 @@
+mode=ip_port
+bots=20
+clients=80
+ratio=20:80
+run_id=5
+mutation_interval_seconds=5
+runtime_seconds=480

@@ -1,0 +1,3 @@
+1776632597.182257 QUERY botc2-alt.example -> C2_IP 127.0.0.1
+1776632597.1907551 QUERY botc2-alt.example -> C2_IP 127.0.0.1
+1776632599.7971652 QUERY botc2-alt.example -> C2_IP 127.0.0.1

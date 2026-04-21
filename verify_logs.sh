@@ -213,96 +213,55 @@
 
 #!/bin/bash
 
-BOT_COUNT=12
-RUNTIME_MIN=10
+set -u
 
-echo ""
-echo "=========================================================================="
-echo "                    BASELINE vs MTD COMPARISON"
-echo "=========================================================================="
+RUN_DIR="${1:-.}"
+ROOT_DIR="$(cd "$RUN_DIR" && pwd)"
+REQUIRED=(
+  "dns_log_baseline.txt"
+  "c2_log_baseline.txt"
+  "bot_log_baseline.txt"
+  "normal_log_baseline.txt"
+  "dns_log_mtd.txt"
+  "c2_log_mtd.txt"
+  "bot_log_mtd.txt"
+  "normal_log_mtd.txt"
+  "mtd_log.txt"
+)
 
-########################################
-# BOT (CLIENT-SIDE)
-########################################
+is_corrupt=0
 
-baseline_success=$(grep -c "SUCCESS" bot_log_baseline.txt)
-baseline_fail=$(grep -c "FAIL" bot_log_baseline.txt)
-baseline_total=$((baseline_success + baseline_fail))
-
-mtd_success=$(grep -c "SUCCESS" bot_log_mtd.txt)
-mtd_fail=$(grep -c "FAIL" bot_log_mtd.txt)
-mtd_total=$((mtd_success + mtd_fail))
-
-########################################
-# SERVER-SIDE BEACONS (REAL ACCEPTED)
-########################################
-
-baseline_beacons=$(grep -c "BEACON" c2_log_baseline.txt)
-mtd_beacons=$(grep -c "BEACON" c2_log_mtd.txt)
-
-########################################
-# DNS
-########################################
-
-baseline_dns=$(grep -c "" dns_log_baseline.txt)
-mtd_dns=$(grep -c "" dns_log_mtd.txt)
-
-########################################
-# NORMAL
-########################################
-
-baseline_normal=$(grep -c "" normal_log_baseline.txt)
-mtd_normal=$(grep -c "" normal_log_mtd.txt)
-
-########################################
-# RATES
-########################################
-
-calc_rate () {
-    total=$1
-    part=$2
-    if [ "$total" -gt 0 ]; then
-        awk "BEGIN {printf \"%.2f\", ($part/$total)*100}"
-    else
-        echo "0.00"
+for f in "${REQUIRED[@]}"; do
+    path="$ROOT_DIR/$f"
+    if [ ! -s "$path" ]; then
+        echo "[INVALID] Missing/empty: $f"
+        is_corrupt=1
     fi
-}
+done
 
-baseline_fail_rate=$(calc_rate $baseline_total $baseline_fail)
-mtd_fail_rate=$(calc_rate $mtd_total $mtd_fail)
+if [ "$is_corrupt" -eq 0 ]; then
+    baseline_attempts=$( (grep -c "C2 SUCCESS\|C2 FAIL" "$ROOT_DIR/bot_log_baseline.txt" 2>/dev/null) || echo 0 )
+    mtd_attempts=$( (grep -c "C2 SUCCESS\|C2 FAIL" "$ROOT_DIR/bot_log_mtd.txt" 2>/dev/null) || echo 0 )
+    baseline_dns=$( (grep -c "QUERY " "$ROOT_DIR/dns_log_baseline.txt" 2>/dev/null) || echo 0 )
+    mtd_dns=$( (grep -c "QUERY " "$ROOT_DIR/dns_log_mtd.txt" 2>/dev/null) || echo 0 )
+    mtd_switches=$( (grep -c "SWITCH mode=" "$ROOT_DIR/mtd_log.txt" 2>/dev/null) || echo 0 )
 
-baseline_success_rate=$(calc_rate $baseline_total $baseline_success)
-mtd_success_rate=$(calc_rate $mtd_total $mtd_success)
+    if [ "$baseline_attempts" -le 0 ] || [ "$mtd_attempts" -le 0 ] || [ "$baseline_dns" -le 0 ] || [ "$mtd_dns" -le 0 ] || [ "$mtd_switches" -le 0 ]; then
+        echo "[INVALID] Corrupted content in $ROOT_DIR"
+        echo "  baseline_attempts=$baseline_attempts mtd_attempts=$mtd_attempts baseline_dns=$baseline_dns mtd_dns=$mtd_dns mtd_switches=$mtd_switches"
+        is_corrupt=1
+    fi
+fi
 
-########################################
-# EFFECTIVENESS
-########################################
+if [ "$is_corrupt" -eq 1 ]; then
+    case "$ROOT_DIR" in
+        */all_config_logs/*)
+            echo "[CLEANUP] Removing corrupted run directory: $ROOT_DIR"
+            rm -rf "$ROOT_DIR"
+            ;;
+    esac
+    exit 1
+fi
 
-beacon_drop=$(awk "BEGIN {printf \"%.2f\", (1 - $mtd_beacons/$baseline_beacons)*100}")
-
-########################################
-# TABLE
-########################################
-
-printf "%-30s | %-15s | %-15s\n" "Metric" "Baseline" "MTD"
-echo "--------------------------------------------------------------------------"
-
-printf "%-30s | %-15s | %-15s\n" "Client Attempts" "$baseline_total" "$mtd_total"
-printf "%-30s | %-15s | %-15s\n" "Client Success" "$baseline_success" "$mtd_success"
-printf "%-30s | %-15s | %-15s\n" "Client Fail" "$baseline_fail" "$mtd_fail"
-
-printf "%-30s | %-14s%% | %-14s%%\n" "Client Success Rate" "$baseline_success_rate" "$mtd_success_rate"
-printf "%-30s | %-14s%% | %-14s%%\n" "Client Fail Rate" "$baseline_fail_rate" "$mtd_fail_rate"
-
-echo "--------------------------------------------------------------------------"
-
-printf "%-30s | %-15s | %-15s\n" "Server Accepted Beacons" "$baseline_beacons" "$mtd_beacons"
-printf "%-30s | %-15s | %-15s\n" "DNS Queries" "$baseline_dns" "$mtd_dns"
-printf "%-30s | %-15s | %-15s\n" "Normal Traffic" "$baseline_normal" "$mtd_normal"
-
-echo "--------------------------------------------------------------------------"
-
-printf "%-30s | %-14s%% | %-14s%%\n" "Beacon Drop %" "0.00" "$beacon_drop"
-
-echo "=========================================================================="
-echo ""
+echo "[VALID] $ROOT_DIR"
+exit 0

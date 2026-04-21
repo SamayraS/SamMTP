@@ -1,0 +1,7 @@
+mode=dns
+bots=50
+clients=5
+ratio=50:5
+run_id=3
+mutation_interval_seconds=10
+runtime_seconds=480

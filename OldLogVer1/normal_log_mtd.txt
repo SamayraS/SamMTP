@@ -1,0 +1,6 @@
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0001s
+C2 SUCCESS
+[DNS] domain=botc2-alt.example ip=127.0.0.1 time=0.0005s
+[TCP] SUCCESS ip=127.0.0.1 port=9000 connect_time=0.0002s
+C2 SUCCESS
